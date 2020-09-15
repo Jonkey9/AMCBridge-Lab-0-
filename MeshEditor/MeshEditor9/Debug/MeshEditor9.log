@@ -1,0 +1,14 @@
+﻿E:\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (MeshEditor9.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Cube.cpp
+  Split.cpp
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(7): warning C4018: <: несоответствие типов со знаком и без знака
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(18): warning C4018: <: несоответствие типов со знаком и без знака
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(25): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(31): warning C4018: <: несоответствие типов со знаком и без знака
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(407): warning C4018: <: несоответствие типов со знаком и без знака
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(455): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+d:\sources\3dopengl - копия\mesheditor\mesheditor9\split.cpp(384): warning C4715: Split::CheckPositionPoint: значение возвращается не при всех путях выполнения
+  MeshEditor9.vcxproj -> D:\sources\3DOpenGL - копия\MeshEditor\Debug\MeshEditor.exe
